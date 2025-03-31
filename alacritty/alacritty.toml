@@ -1,0 +1,36 @@
+# import = ["/home/user/.config/alacritty/themes/custom.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 20
+padding.y = 20
+
+decorations = "Buttonless"
+opacity = 1
+blur = false
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+size = 15.0
+
+[colors.primary]
+background = "#120E25"
+foreground = "#b0c3cc"
+
+
+[colors.cursor]
+cursor = "#f5e0dc"
+text = "#1e1e2e"
+
+
+[colors.normal]
+black = "#45475a"
+cyan = "#44E2D5"
+blue = "#60AFEF"
+green = "#a6e3a1"
+magenta = "#f5c2e7"
+red = "#E06C74"
+white = "#bac2de"
+yellow = "#f9e2af"
